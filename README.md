@@ -27,3 +27,8 @@ A simple graphical Tic-Tac-Toe game implemented in Java using AWT and the MVC pa
     java Main
     ```
 5.  **Play:** The game window will appear. Click squares to play, X goes first.
+
+## Screenshot of the Game
+
+
+![Login Screen](screen.png)
