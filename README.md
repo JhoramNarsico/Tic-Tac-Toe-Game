@@ -31,4 +31,4 @@ A simple graphical Tic-Tac-Toe game implemented in Java using AWT and the MVC pa
 ## Screenshot of the Game
 
 
-![Login Screen](screen.png)
+![Screen](screen.png)
